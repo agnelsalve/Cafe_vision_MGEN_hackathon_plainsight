@@ -94,11 +94,8 @@ python cafe_vision.py --source 0
 
 ## 🖼️ Sample Output Screenshots
 
-*(Add screenshots below once available — e.g. detection window, CSV analytics, and terminal output)*
-
-![Sample Output 1](assets/output1.png)
-![Sample Output 2](assets/output2.png)
-![CSV Snapshot](assets/output_csv.png)
+![Sample Output 1](<img width="1920" height="1080" alt="OutputSS" src="https://github.com/user-attachments/assets/3e152ab3-9f7a-434c-92b1-7bf1f45a17fc" />)
+![Sample Output 2](<img width="1920" height="1080" alt="SS2" src="https://github.com/user-attachments/assets/21051a5f-9f59-421f-ac11-aaac0b1a5318" />)
 
 ---
 
